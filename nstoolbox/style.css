@@ -1,0 +1,42 @@
+body {
+	background-attachment: scroll;
+	background-color: #FFFFFF;
+	background-repeat: repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+.tittxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.bg {
+	background-attachment: scroll;
+	background-image: url(images/line.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.copy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}

@@ -1,0 +1,105 @@
+body {
+	background-attachment: scroll;
+	background-color: #FFFFFF;
+	background-repeat: repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+.midbot {
+	background-attachment: scroll;
+	background-image: url(../images/botline.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.topline {
+	background-attachment: scroll;
+	background-image: url(../images/topmid.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+
+.botline {
+	background-attachment: scroll;
+	background-image: url(../images/bline.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.lline {
+	background-attachment: scroll;
+	background-image: url(../images/lline.png);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+.rline {
+	background-attachment: scroll;
+	background-image: url(../images/rightline.jpg);
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.txt a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.txt a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FF9933;
+	text-decoration: none;
+}
+.txts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.ban {
+	background-attachment: scroll;
+	background-image: url(../images/topbanner.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.leftline {
+	background-attachment: scroll;
+	background-image: url(../images/lline.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+.topm {
+	background-attachment: scroll;
+	background-image: url(../images/topmid.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.rline {
+	background-attachment: scroll;
+	background-image: url(../images/rightline.jpg);
+	background-repeat: repeat-y;
+	background-position: right top;
+
+}
+.tline {
+	background-attachment: scroll;
+	background-image: url(../images/student-form_07.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
